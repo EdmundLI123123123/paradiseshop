@@ -1,8 +1,6 @@
 {
   "name": "shoppingcart",
-  "private": true,
   "version": "0.0.0",
-  "homepage": "https://edmundli123123123.github.io/paradiseshop/",
   "type": "module",
   "scripts": {
     "dev": "vite",
